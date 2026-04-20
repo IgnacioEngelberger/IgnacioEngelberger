@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">
+  Ignacio Engelberger
+  </br>
+  <sub><sub>Software Engineer @ Uber</sub></sub>
+  </br>
+  <p />
+</h2>
+<h4 align="center"></h1>
 
-<!--
-**IgnacioEngelberger/IgnacioEngelberger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+By day I build at Uber, by night I solve real business bottlenecks at Techno Logic.
 
-Here are some ideas to get you started:
+Previously: Co-Founder @ AppYou, Founder @ Techno Logic, Software Engineer @ Ttexis, Software Engineer @ Xpendit.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/ignacio-engelberger/) • [GitHub](https://github.com/IgnacioEngelberger) • [X](https://x.com/engelberger_n) • ignaengelberger@gmail.com
