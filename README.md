@@ -7,7 +7,7 @@
 </h2>
 <h4 align="center"></h1>
 
-By day I build at Uber, by night I solve real business bottlenecks at Techno Logic.
+By day I build at Uber, by night at Techno Logic.
 
 Previously: Co-Founder @ AppYou, Founder @ Techno Logic, Software Engineer @ Ttexis, Software Engineer @ Xpendit.
 
