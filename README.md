@@ -1,14 +1,12 @@
 <h1 align="center">
   Ignacio Engelberger
   </br>
-  <sub><sub>Software Engineer @ Uber</sub></sub>
+  <sub><sub>Founding Engineer @ Flai</sub></sub>
   </br>
   <p />
 </h2>
 <h4 align="center"></h1>
 
-By day I build at Uber, by night at Techno Logic.
-
-Previously: Co-Founder @ AppYou, Founder @ Techno Logic, Software Engineer @ Ttexis, Software Engineer @ Xpendit.
+Previously: Software Engineer @ Uber, Founder @ Techno Logic, Founding Engineer @ Xpendit, Software Engineer @ Ttexis, Co-Founder @ AppYou.
 
 [LinkedIn](https://www.linkedin.com/in/ignacio-engelberger/) • [GitHub](https://github.com/IgnacioEngelberger) • [X](https://x.com/engelberger_n) • ignaengelberger@gmail.com
